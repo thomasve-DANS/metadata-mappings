@@ -1,6 +1,6 @@
 originalfield,metadatablock,metadatafield,id,subfield,level,type
-"/record/metadata/ddi:codeBook/ddi:docDscr/ddi:prodStmt/ddi:producer",citation,producer,1,name,0,primitive
-"/record/metadata/ddi:codeBook/ddi:docDscr/ddi:prodStmt/ddi:producer",citation,language,1,"",0,primitive
+"/record/metadata/ddi:codeBook/ddi:docDscr/ddi:citation/ddi:prodStmt/ddi:producer",citation,producer,1,name,0,primitive
+"/record/metadata/ddi:codeBook/ddi:docDscr/ddi:citation/ddi:prodStmt/ddi:producer",citation,language,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:titl",citation,title,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:parTitl",citation,title,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:parTitl",citation,alternativeTitle,1,"",0,primitive
