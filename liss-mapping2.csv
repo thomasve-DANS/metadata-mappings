@@ -1,7 +1,7 @@
 originalfield,metadatablock,metadatafield,id,subfield,level,type
-"dc:creator",citation,author,1,name,0,primitive
-"dc:title",citation,title,1,"title",0,primitive
-"dc:description",citation,description,1,text,0,primitive
-"dc:publisher",citation,producer,1,name,0,primitive
-"dc:identifier",citation,otherId,1,identifier,0,primitive
-"dc:rights",citation,notes,1,"notes",0,primitive
+"/metadata/dc:creator",citation,author,1,name,0,primitive
+"/metadata/dc:title",citation,title,1,"title",0,primitive
+"/metadata/dc:description",citation,description,1,text,0,primitive
+"/metadata/dc:publisher",citation,producer,1,name,0,primitive
+"/metadata/dc:identifier",citation,otherId,1,identifier,0,primitive
+"/metadata/dc:rights",citation,notes,1,"notes",0,primitive
