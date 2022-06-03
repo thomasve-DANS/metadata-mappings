@@ -4,7 +4,7 @@ originalfield,metadatablock,metadatafield,id,subfield,level,type
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:titl",citation,title,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:parTitl",citation,title,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:parTitl",citation,alternativeTitle,1,"",0,primitive
-"/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:IDNo",publicationIdNumber,alternativeTitle,1,"",0,primitive
+"/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:titlStmt/ddi:IDNo",citation,publicationIdNumber,1,"",0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:rspStmt/ddi:AuthEnty",citation,author,1,name,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:citation/ddi:rspStmt/ddi:othId",citation,author,1,name,0,primitive
 "/record/metadata/ddi:codeBook/ddi:stdyDscr/ddi:stdyInfo/ddi:subject/ddi:keyword",citation,keyword,1,"",1,primitive
